@@ -1,0 +1,29 @@
+Bogado Julieta 
+
+Sistema operativo	Microsoft Windows 7 Ultimate
+Versión	6.1.7601 Service Pack 1 Compilación 7601
+Descripción adicional del sistema operativo 	No disponible
+Fabricante del sistema operativo	Microsoft Corporation
+Nombre del sistema	ACER-I5
+Fabricante del sistema	Acer
+Modelo del sistema	Aspire 5820TG
+Tipo de sistema	PC basado en x64
+Procesador	Intel(R) Core(TM) i5 CPU       M 480  @ 2.67GHz, 2667 Mhz, 2 procesadores principales, 4 procesadores lógicos
+Versión y fecha de BIOS	INSYDE V1.23, 21/12/2010
+Versión de SMBIOS	2.6
+Directorio de Windows	C:\Windows
+Directorio del sistema	C:\Windows\system32
+Dispositivo de arranque	\Device\HarddiskVolume1
+Configuración regional	Argentina
+Capa de abstracción de hardware	Versión = "6.1.7601.24384"
+Nombre de usuario	ACER-I5\Administrador
+Zona horaria	Hora estándar de Argentina
+Memoria física instalada (RAM)	4,00 GB
+Memoria física total	3,68 GB
+Memoria física disponible	1,37 GB
+Memoria virtual total	7,35 GB
+Memoria virtual disponible	3,15 GB
+Espacio de archivo de paginación	3,68 GB
+Archivo de paginación	C:\pagefile.sys
+
+21:52hs
