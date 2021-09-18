@@ -1,0 +1,41 @@
+Nombre del SO	Microsoft Windows 10 Pro
+Versión	10.0.19042 Compilación 19042
+Descripción adicional del SO 	No disponible
+Fabricante del SO	Microsoft Corporation
+Nombre del sistema	PC-I3
+Fabricante del sistema	Gigabyte Technology Co., Ltd.
+Modelo del sistema	H110M-H
+Tipo de sistema	x64-based PC
+SKU del sistema	Default string
+Procesador	Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz, 3900 Mhz, 2 procesadores principales, 4 procesadores lógicos
+Versión y fecha de BIOS	American Megatrends Inc. F21, 9/6/2017
+Versión de SMBIOS	3.0
+Versión de controladora integrada	255.255
+Modo de BIOS	Heredado
+Fabricante de la placa base	Gigabyte Technology Co., Ltd.
+Producto placa base	H110M-H-CF
+Versión de la placa base	x.x
+Rol de plataforma	Escritorio
+Estado de arranque seguro	No compatible
+Configuración de PCR7	Enlace no posible
+Directorio de Windows	C:\WINDOWS
+Directorio del sistema	C:\WINDOWS\system32
+Dispositivo de arranque	\Device\HarddiskVolume1
+Configuración regional	México
+Capa de abstracción de hardware	Versión = "10.0.19041.1151"
+Nombre de usuario	PC-I3\Administrador
+Zona horaria	Hora estándar de Argentina
+Memoria física instalada (RAM)	16,0 GB
+Memoria física total	15,9 GB
+Memoria física disponible	10,5 GB
+Memoria virtual total	18,3 GB
+Memoria virtual disponible	12,8 GB
+Espacio de archivo de paginación	2,38 GB
+Archivo de paginación	C:\pagefile.sys
+Protección de DMA de kernel	Desactivado
+Seguridad basada en virtualización	No habilitado
+Compatibilidad con cifrado de dispositivo	Razones del error de cifrado automático de dispositivo: No se puede usar TPM, No se admite un enlace PCR7, Error en la interfaz de prueba de seguridad de hardware y el dispositivo no está en modo de espera moderno, Se detectaron dispositivos o un bus compatible con DMA no permitidos, No se configuró WinRE, No se puede usar TPM
+Hyper-V - Extensiones de modo de monitor VM	Sí
+Hyper-V - Extensiones de traducción de dirección de segundo nivel	Sí
+Hyper-V - Virtualización habilitada en Firmware	Sí
+Hyper-V -Protección de ejecución de datos	Sí
