@@ -27,3 +27,18 @@ Espacio de archivo de paginación	3,68 GB
 Archivo de paginación	C:\pagefile.sys
 
 21:52hs
+
+
+
+Nicolas Marcos 
+
+Configuración IP de Windows
+
+Adaptador de LAN inalámbrica Wi-Fi:
+
+   Sufijo DNS específico para la conexión. . : fibertel.com.ar
+   Dirección IPv4. . . . . . . . . . . . . . : 
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.0.1
+
+ hora 18:37hs
