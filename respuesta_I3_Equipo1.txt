@@ -19,3 +19,10 @@ f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido
 Responde ALFA:
 G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
 3
+git pull
+git checkout Bogado
+git add .	
+git commit -m "Modificaciones Alfa"
+git push
+
+
