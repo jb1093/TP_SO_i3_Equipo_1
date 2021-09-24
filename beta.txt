@@ -42,3 +42,47 @@ Adaptador de LAN inalámbrica Wi-Fi:
    Puerta de enlace predeterminada . . . . . : 192.168.0.1
 
  hora 18:37hs
+
+
+
+Marcos Cordero
+Configuraci¢n IP de Windows
+
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::55fa:ca2d:90e1:5ccc%6
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de LAN inal mbrica Conexi¢n de  rea local* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de LAN inal mbrica Conexi¢n de  rea local* 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Direcci¢n IPv6 . . . . . . . . . . : 2800:810:42d:29ea::1005
+   Direcci¢n IPv6 . . . . . . . . . . : 2800:810:42d:29ea:9417:125:76e2:4f9
+   Direcci¢n IPv6 temporal. . . . . . : 2800:810:42d:29ea:9d35:b4ea:308:fa53
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::9417:125:76e2:4f9%15
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.0.98
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::5a90:43ff:fe66:f699%15
+                                       192.168.0.1
+
+Adaptador de LAN inal mbrica Wi-Fi:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+
+Hora: 18:21
